@@ -1,0 +1,38 @@
+{
+  "wireless earbuds": {
+    "search_volume": 250000,
+    "keyword_difficulty": 75,
+    "avg_cpc": 2.50,
+    "notes": "Highly competitive, focus on long-tail variations or specific niches."
+  },
+  "best budget smartphone": {
+    "search_volume": 150000,
+    "keyword_difficulty": 60,
+    "avg_cpc": 1.75,
+    "notes": "Target users looking for value, compare features and price."
+  },
+  "home office setup": {
+    "search_volume": 90000,
+    "keyword_difficulty": 50,
+    "avg_cpc": 1.20,
+    "notes": "Growing interest, focus on productivity and ergonomics."
+  },
+  "sustainable living tips": {
+    "search_volume": 75000,
+    "keyword_difficulty": 45,
+    "avg_cpc": 0.90,
+    "notes": "Appeal to eco-conscious audience, provide actionable advice."
+  },
+  "learn python programming": {
+    "search_volume": 120000,
+    "keyword_difficulty": 65,
+    "avg_cpc": 1.50,
+    "notes": "High intent keyword, target beginners and intermediate learners."
+  },
+  "default": {
+    "search_volume": 10000,
+    "keyword_difficulty": 40,
+    "avg_cpc": 1.00,
+    "notes": "Generic data for keywords not specifically listed."
+  }
+}
