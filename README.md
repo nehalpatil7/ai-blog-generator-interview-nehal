@@ -29,18 +29,15 @@ ai-blog-generator-interview/
 
 ### .env file
 ```txt
-["AI_SECRETS"]
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 OPENROUTER_SECRET = "YOUR_OPENROUTER_KEY_HERE"
 
-["STATIC_VARIABLES"]
 DAILY_KEYWORD="YOUR_KEYWORD"
 DAILY_OUTPUT_DIR="DIR_BLOG_POSTS"
 DAILY_FORMAT="markdown/html"
 DAILY_CRON_HOUR="UTC_TIME_HERE"
 DAILY_CRON_MINUTE="0"
 
-["FLASK"]
 FLASK_APP="app.py"
 FLASK_ENV="development/production"
 FLASK_DEBUG=(1 for hot reload, 2 for normal)
